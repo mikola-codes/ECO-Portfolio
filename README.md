@@ -30,22 +30,6 @@ The core highlight of our internship and this portfolio is the development of th
 
 ---
 
-## How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/ecozone-portfolio.git
-   ```
-2. **Open the project folder:**
-   Navigate into the downloaded folder.
-3. **Launch the site:**
-   - Open `index.html` using VS Code Live Server.
-   - Alternatively, double-click `index.html` to open it directly in any modern web browser.
-
-> Note: An active internet connection is required to load Google Fonts and the AOS animation library.
-
----
-
 ## Project Structure
 
 ```text
@@ -67,15 +51,6 @@ ecozone-portfolio/
 - **Frontend Core:** HTML5, CSS3, Vanilla JavaScript
 - **Typography:** Google Fonts (Inter + Space Grotesk)
 - **Animations:** AOS Library
-
----
-
-## Deploying on GitHub Pages
-
-1. Push this project to your GitHub repository.
-2. Go to your repository's Settings → Pages.
-3. Under Build and deployment, set the source branch to main (or master) and folder to / (root).
-4. Click Save. Your site will be live at: https://yourusername.github.io/repo-name/
 
 ---
 *Built for OJT Portfolio Defense | WMSU BSCS-2A | 2026*
