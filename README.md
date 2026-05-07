@@ -45,12 +45,4 @@ ecozone-portfolio/
 ```
 
 ---
-
-## Technologies Used
-
-- **Frontend Core:** HTML5, CSS3, Vanilla JavaScript
-- **Typography:** Google Fonts (Inter + Space Grotesk)
-- **Animations:** AOS Library
-
----
 *Built for OJT Portfolio Defense | WMSU BSCS-2A | 2026*
